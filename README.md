@@ -54,11 +54,7 @@ The project was built in five stages:
 *(Add screenshots below — export each Power BI page as an image and place them in `dashboard/screenshots/`, then reference them here, e.g.:)*
 
 ```markdown
-<img width="1293" height="725" alt="image" src="https://github.com/user-attachments/assets/132fec78-a6b8-4065-8225-e9b4cec045cc" />
-
-<img width="1311" height="732" alt="image" src="https://github.com/user-attachments/assets/dee70d56-c888-47ea-a0d6-73cdaf119bd4" />
-
-<img width="1305" height="735" alt="image" src="https://github.com/user-attachments/assets/a050cf07-42e7-452d-9243-6097c5c417c1" />
+<img width="1305" height="735" alt="image" src="https://github.com/user-attachments/assets/fa5351d7-284a-4f22-8b23-a09db0ef4b6a" />
 
 ```
 
