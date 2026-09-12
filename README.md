@@ -1,4 +1,4 @@
-# Marketplace Seller Risk Scoring & Exposure Correlation Study
+# Is the Algorithm Punishing Struggling Sellers Twice? A Marketplace Risk Study.
 
 Diagnosing a fulfillment-to-exposure feedback loop in marketplace seller performance.
 
@@ -6,9 +6,9 @@ Diagnosing a fulfillment-to-exposure feedback loop in marketplace seller perform
 
 ## Executive Summary
 
-This project investigates whether sellers who fail to meet delivery expectations experience a compounding decline in algorithmic visibility, customer ratings, and returns — and quantifies how much of the marketplace's revenue and refund cost is concentrated in this at-risk group.
+This project investigates whether sellers who fail to meet delivery expectations experience a compounding decline in algorithmic visibility, customer ratings, and returns. **And quantifies how much of the marketplace's revenue and refund cost is concentrated in this at-risk group**.
 
-Using a synthetic but realistically messy marketplace dataset (sellers, products, orders, algorithmic exposure, reviews, and returns), this analysis builds a full pipeline — cleaning, metric development, statistical validation, a custom seller risk score, and an interactive Power BI dashboard — to move from a hypothesis to a defensible, quantified business finding.
+Using a synthetic but realistically messy marketplace dataset (sellers, products, orders, algorithmic exposure, reviews, and returns), this analysis builds a full pipeline of cleaning, metric development, statistical validation, a custom seller risk score, and an interactive Power BI dashboard. To move from a hypothesis to a defensible, quantified business finding.
 
 **Headline results:**
 - **~32%** of all orders had a fulfillment problem (delayed, cancelled, or returned)
@@ -21,12 +21,11 @@ Using a synthetic but realistically messy marketplace dataset (sellers, products
 
 ## Business Problem
 
-Marketplace platforms rely on algorithms to decide which sellers' products get shown to customers. When a seller starts missing delivery deadlines, it's reasonable for a platform to reduce their visibility to protect customer experience.
+Marketplace platforms rely on algorithms to decide which sellers' products get shown to customers, and these algorithms typically factor in customer ratings as a signal of seller quality. A seller starts missing delivery deadlines, customers respond with lower ratings and reviews. And the algorithm reading those lower ratings as a quality signal, reduces that seller's visibility as a result.
 
-But this creates a risk: if reduced visibility further starves a struggling seller of orders, it can accelerate their decline rather than give them room to recover — a feedback loop where the platform's own system makes the underlying problem worse, not better.
+But this creates a risk. If reduced visibility further starves a struggling seller of orders, it can accelerate their decline rather than give them room to recover. A feedback loop where the platform's own system makes the underlying problem worse, not better.
 
-**The core question this project answers:** Is there evidence of this feedback loop in the data, how widespread is it, and what is it costing the business?
-
+**The core question this project answers:** Does the data show that struggling sellers keep getting worse, how many sellers are affected, and how much revenue the business is losing because of it?
 ---
 
 ## Solution
@@ -55,9 +54,12 @@ The project was built in five stages:
 *(Add screenshots below — export each Power BI page as an image and place them in `dashboard/screenshots/`, then reference them here, e.g.:)*
 
 ```markdown
-![Overview Page](dashboard/screenshots/overview.png)
-![Trends Page](dashboard/screenshots/trends.png)
-![Returns Page](dashboard/screenshots/returns.png)
+<img width="1293" height="725" alt="image" src="https://github.com/user-attachments/assets/132fec78-a6b8-4065-8225-e9b4cec045cc" />
+
+<img width="1311" height="732" alt="image" src="https://github.com/user-attachments/assets/dee70d56-c888-47ea-a0d6-73cdaf119bd4" />
+
+<img width="1305" height="735" alt="image" src="https://github.com/user-attachments/assets/a050cf07-42e7-452d-9243-6097c5c417c1" />
+
 ```
 
 ---
@@ -66,25 +68,25 @@ The project was built in five stages:
 
 | Finding | Evidence |
 |---|---|
-| Fulfillment problems are widespread | 32% of all orders had a delivery issue |
+| Fulfillment problems are widespread | **32% of all orders had a delivery issue** |
 | Exposure declines specifically after breach onset, not randomly | Event-study alignment across 10 struggling sellers |
 | The relationship is consistent across multiple signals | Breach rate correlates with rating, exposure, and return rate |
 | Late delivery is the dominant driver of returns | 71% of all returns explicitly cite late delivery |
-| The at-risk cohort is a disproportionate cost center | 26% of sellers, 25.7% of revenue, 43% of refund cost |
+| The at-risk cohort is a disproportionate cost center | **26% of sellers, 25.7% of revenue, 43% of refund cost** |
 
 ---
 
 ## Limitations
 
 - Same-week correlation between SLA breach rate and revenue was not statistically meaningful; a longer-lag analysis would be needed to confirm a downstream revenue effect
-- Some points in the event-study analysis are based on a small number of contributing sellers, which is noted directly alongside the relevant chart rather than hidden
+- Some points in the event study analysis are based on a small number of contributing sellers, which is noted directly alongside the relevant chart rather than hidden
 - The dataset is synthetic, constructed to reflect realistic e-commerce marketplace dynamics rather than sourced from a live platform
 
 ---
 
 ## Recommendation
 
-Introduce a temporary exposure floor for sellers on their first SLA breach, paired with an early-warning alert to operations before the algorithm's visibility penalty escalates — targeting sellers who cross into the "at-risk" tier of the Health Score. Given the concentration of revenue and refund cost already observed in this group, even a modest reduction in the feedback loop's severity represents a meaningful business opportunity.
+Introduce a temporary exposure floor for sellers on their first SLA breach, paired with an early-warning alert to operations before the algorithm's visibility penalty escalates , targeting sellers who cross into the "at-risk" tier of the Health Score. Given the concentration of revenue and refund cost already observed in this group, even a modest reduction in the feedback loop's severity represents a meaningful business opportunity.
 
 ---
 
