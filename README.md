@@ -51,8 +51,6 @@ The project was built in five stages:
 
 ## Dashboard Screenshots
 
-*(Add screenshots below — export each Power BI page as an image and place them in `dashboard/screenshots/`, then reference them here, e.g.:)*
-
 markdown
    <img width="1303" height="730" alt="Overview" src="https://github.com/user-attachments/assets/e615748c-589a-48d1-b46b-8b2b64830928" />
    <img width="1303" height="733" alt="Trend" src="https://github.com/user-attachments/assets/a28ca2ae-2383-4cef-95c2-fbba7ad7d703" />
