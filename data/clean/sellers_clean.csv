@@ -1,0 +1,41 @@
+seller_id,seller_name,region,primary_category,onboarding_date,tier
+SEL0001,Amber Studio,France,Fashion,2024-01-15,Bronze
+SEL0002,Bright Studio,UK,Fashion,2024-01-25,Silver
+SEL0003,Aster Supply Co,Germany,Home & Living,2025-01-24,Bronze
+SEL0004,Solace & Co,Italy,Electronics,2024-03-11,Bronze
+SEL0005,Nordic Supply Co,UK,Electronics,2024-05-18,Silver
+SEL0006,Aster Co.,Italy,Beauty,2024-12-17,Bronze
+SEL0007,Moss Shop,Germany,Sports & Outdoors,2023-08-11,Bronze
+SEL0008,Lumen Essentials,UK,Home & Living,2024-03-11,Silver
+SEL0009,Fable Direct,France,Sports & Outdoors,2025-04-30,Silver
+SEL0010,Solace Trading,Italy,Electronics,2025-03-17,Silver
+SEL0011,Pure Goods,UK,Pet Supplies,2024-04-19,Silver
+SEL0012,Juno Goods,Italy,Home & Living,2025-03-20,Silver
+SEL0013,Coral & Co,Spain,Home & Living,2025-01-18,Silver
+SEL0014,Wren Trading,UK,Pet Supplies,2023-07-19,Gold
+SEL0015,Reed Shop,UK,Home & Living,2024-06-25,Silver
+SEL0016,Amber Direct,Spain,Pet Supplies,2024-02-29,Gold
+SEL0017,Terra Studio,France,Toys & Games,2023-11-30,Silver
+SEL0018,Echo Goods,Germany,Electronics,2023-11-13,Silver
+SEL0019,Nova Shop,France,Home & Living,2023-06-20,Bronze
+SEL0020,Ivory Goods,UK,Fashion,2025-01-01,Platinum
+SEL0021,Aster Living,Germany,Fashion,2025-04-06,Silver
+SEL0022,Fable Store,Germany,Sports & Outdoors,2024-04-15,Silver
+SEL0023,Zephyr Trading,UK,Fashion,2024-01-17,Bronze
+SEL0024,Nova Co.,UK,Fashion,2023-08-09,Gold
+SEL0025,Ember Direct,Italy,Fashion,2024-12-04,Bronze
+SEL0026,Umber Goods,Italy,Pet Supplies,2024-07-21,Bronze
+SEL0027,Quartz Trading,UK,Sports & Outdoors,2025-03-31,Platinum
+SEL0028,Velvet Goods,Germany,Fashion,2024-12-01,Silver
+SEL0029,Cloud Trading,Spain,Beauty,2023-07-22,Silver
+SEL0030,Birch Collective,Italy,Home & Living,2024-10-05,Bronze
+SEL0031,Nova Supply Co,France,Pet Supplies,2024-09-08,Bronze
+SEL0032,Bloom Direct,Italy,Fashion,2023-12-12,Bronze
+SEL0033,Aster Studio,France,Beauty,2023-07-22,Silver
+SEL0034,Solace Studio,Spain,Beauty,2023-12-08,Bronze
+SEL0035,Cove Goods,Spain,Toys & Games,2023-07-11,Silver
+SEL0036,Zephyr Market,France,Fashion,2025-04-16,Gold
+SEL0037,Ivory Trading,France,Pet Supplies,2023-08-14,Bronze
+SEL0038,Velvet Co.,Spain,Fashion,2024-10-31,Bronze
+SEL0039,Birch Market,France,Fashion,2024-08-22,Gold
+SEL0040,Zephyr Studio,Spain,Electronics,2025-04-10,Bronze

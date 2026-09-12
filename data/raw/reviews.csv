@@ -1,0 +1,566 @@
+review_id,order_id,rating,review_text,review_date
+REV0001,ORD00955,1.0,"Ordered this over a week late, wouldn't order again.",2026-07-03
+REV0002,ORD00542,4.0,Fast shipping and item was well packaged.,2025-08-21
+REV0003,ORD00209,3.0,"It's okay, does the job.",2025-04-14
+REV0004,ORD00147,3.0,"Average product, nothing special.",2025-12-11
+REV0005,ORD00914,5.0,"Exceeded expectations, will be ordering more.",2025-06-23
+REV0006,ORD00016,4.0,"Exceeded expectations, will be ordering more.",2026-07-04
+REV0007,ORD00067,4.0,"Nice product, good value for the price.",2026-04-09
+REV0008,ORD00208,,"Item never arrived on time, very disappointing.",2026-03-09
+REV0009,ORD00725,5.0,Fast shipping and item was well packaged.,2026-04-08
+REV0010,ORD00377,3.0,"Fine for the price, packaging could be better.",2025-12-11
+REV0011,ORD00977,4.0,"Nice product, good value for the price.",2026-07-02
+REV0012,ORD00853,2.0,"Ordered this over a week late, wouldn't order again.",2025-10-27
+REV0013,ORD00576,4.0,"Nice product, good value for the price.",2025-05-24
+REV0014,ORD00243,5.0,"Great quality, arrived as expected, would buy again!",2026-07-03
+REV0015,ORD00676,5.0,"Great quality, arrived as expected, would buy again!",2026-03-31
+REV0016,ORD00816,4.0,"Nice product, good value for the price.",2026-02-04
+REV0017,ORD00795,2.0,"Fine for the price, packaging could be better.",2025-12-31
+REV0018,ORD00846,4.0,"Nice product, good value for the price.",2026-02-11
+REV0019,ORD00354,5.0,"Really happy with this purchase, exactly as described.",2026-05-27
+REV0020,ORD00070,5.0,"Exceeded expectations, will be ordering more.",2025-10-27
+REV0021,ORD00609,5.0,Fast shipping and item was well packaged.,2026-01-14
+REV0022,ORD00419,4.0,"Nice product, good value for the price.",2025-07-21
+REV0023,ORD00393,,Package was late and support was slow to respond.,2026-06-18
+REV0024,ORD00202,5.0,"Really happy with this purchase, exactly as described.",2025-12-13
+REV0025,ORD00171,3.0,"Fine for the price, packaging could be better.",2026-06-03
+REV0026,ORD00723,2.0,"Delivery took way longer than promised, not happy.",2026-07-04
+REV0027,ORD00105,4.0,"Exceeded expectations, will be ordering more.",2026-01-02
+REV0028,ORD00408,1.0,"Still waiting past the promised date, frustrating experience.",2026-05-14
+REV0029,ORD00652,5.0,"Really happy with this purchase, exactly as described.",2026-04-06
+REV0030,ORD00855,5.0,"Great quality, arrived as expected, would buy again!",2025-12-02
+REV0031,ORD00789,2.0,"Not as described, quality was poor.",2025-10-21
+REV0032,ORD00021,5.0,Fast shipping and item was well packaged.,2025-08-29
+REV0033,ORD00972,4.0,"Really happy with this purchase, exactly as described.",2026-04-05
+REV0034,ORD00726,5.0,"Nice product, good value for the price.",2026-07-06
+REV0035,ORD00270,2.0,"Average product, nothing special.",2025-10-16
+REV0036,ORD00463,3.0,"Average product, nothing special.",2026-07-12
+REV0037,ORD00418,4.0,Fast shipping and item was well packaged.,2026-02-20
+REV0038,ORD00443,1.0,"Ordered this over a week late, wouldn't order again.",2026-06-24
+REV0039,ORD00513,5.0,"Great quality, arrived as expected, would buy again!",2025-04-18
+REV0040,ORD00643,3.0,"Fine for the price, packaging could be better.",2026-06-30
+REV0041,ORD00176,1.0,"Fine for the price, packaging could be better.",2025-08-20
+REV0042,ORD00797,4.0,"Really happy with this purchase, exactly as described.",2026-06-16
+REV0043,ORD00069,4.0,"Great quality, arrived as expected, would buy again!",2026-02-28
+REV0044,ORD00583,2.0,"Item never arrived on time, very disappointing.",2026-04-08
+REV0045,ORD00039,3.0,"It's okay, does the job.",2025-12-03
+REV0046,ORD00953,1.0,"It's okay, does the job.",2026-04-13
+REV0047,ORD00831,,"Exceeded expectations, will be ordering more.",2025-04-12
+REV0048,ORD00307,5.0,Fast shipping and item was well packaged.,2026-01-14
+REV0049,ORD00801,5.0,Fast shipping and item was well packaged.,2026-04-29
+REV0050,ORD00237,5.0,"Nice product, good value for the price.",2026-06-26
+REV0051,ORD00102,5.0,"Great quality, arrived as expected, would buy again!",2026-07-08
+REV0052,ORD00663,5.0,"Exceeded expectations, will be ordering more.",2026-02-12
+REV0053,ORD00988,5.0,"Really happy with this purchase, exactly as described.",2026-05-08
+REV0054,ORD00498,,Package was late and support was slow to respond.,2026-03-11
+REV0055,ORD00693,5.0,"Exceeded expectations, will be ordering more.",2026-02-02
+REV0056,ORD00242,5.0,"Great quality, arrived as expected, would buy again!",2025-07-14
+REV0057,ORD00802,5.0,"Great quality, arrived as expected, would buy again!",2026-03-28
+REV0058,ORD00397,1.0,Item arrived damaged.,2025-11-21
+REV0059,ORD00680,5.0,"Great quality, arrived as expected, would buy again!",2026-05-01
+REV0060,ORD00570,5.0,Fast shipping and item was well packaged.,2025-10-26
+REV0061,ORD00611,4.0,"Really happy with this purchase, exactly as described.",2026-01-17
+REV0062,ORD00488,3.0,"Fine for the price, packaging could be better.",2026-06-13
+REV0063,ORD00201,4.0,"Nice product, good value for the price.",2026-06-16
+REV0064,ORD00490,4.0,Fast shipping and item was well packaged.,2025-11-11
+REV0065,ORD00521,4.0,"Exceeded expectations, will be ordering more.",2025-07-26
+REV0066,ORD00877,,"It's okay, does the job.",2025-08-22
+REV0067,ORD00263,5.0,Fast shipping and item was well packaged.,2026-05-23
+REV0068,ORD00758,5.0,"Fine for the price, packaging could be better.",2026-06-16
+REV0069,ORD00461,,"Nice product, good value for the price.",2025-12-07
+REV0070,ORD00484,1.0,"Delivery took way longer than promised, not happy.",2026-01-14
+REV0071,ORD00008,5.0,"Nice product, good value for the price.",2026-05-08
+REV0072,ORD00647,5.0,"Exceeded expectations, will be ordering more.",2026-06-05
+REV0073,ORD00580,3.0,"Fine for the price, packaging could be better.",2026-06-10
+REV0074,ORD00486,5.0,"Really happy with this purchase, exactly as described.",2026-02-24
+REV0075,ORD00515,2.0,Package was late and support was slow to respond.,2026-02-14
+REV0076,ORD00947,2.0,Not worth the money.,2025-12-16
+REV0077,ORD00715,4.0,"Nice product, good value for the price.",2026-04-07
+REV0078,ORD00247,1.0,"Still waiting past the promised date, frustrating experience.",2025-11-09
+REV0079,ORD00702,1.0,"Ordered this over a week late, wouldn't order again.",2026-05-08
+REV0080,ORD00451,5.0,"Exceeded expectations, will be ordering more.",2025-12-15
+REV0081,ORD00915,4.0,"Nice product, good value for the price.",2026-03-25
+REV0082,ORD00613,1.0,"Not as described, quality was poor.",2026-06-22
+REV0083,ORD00943,,"Average product, nothing special.",2026-06-07
+REV0084,ORD00805,5.0,"Great quality, arrived as expected, would buy again!",2025-10-26
+REV0085,ORD00431,2.0,"Delivery took way longer than promised, not happy.",2026-05-30
+REV0086,ORD00629,4.0,"Really happy with this purchase, exactly as described.",2026-04-01
+REV0087,ORD00206,4.0,Fast shipping and item was well packaged.,2026-03-14
+REV0088,ORD00285,4.0,Fast shipping and item was well packaged.,2026-01-14
+REV0089,ORD00167,4.0,"Great quality, arrived as expected, would buy again!",2025-05-21
+REV0090,ORD00392,4.0,"Great quality, arrived as expected, would buy again!",2026-04-01
+REV0091,ORD00215,5.0,"Nice product, good value for the price.",2026-05-25
+REV0092,ORD00669,4.0,"Really happy with this purchase, exactly as described.",2026-06-21
+REV0093,ORD00743,3.0,"Average product, nothing special.",2026-06-09
+REV0094,ORD00288,5.0,"Great quality, arrived as expected, would buy again!",2026-04-25
+REV0095,ORD00141,4.0,"Really happy with this purchase, exactly as described.",2025-09-20
+REV0096,ORD00510,1.0,"Item never arrived on time, very disappointing.",2026-05-06
+REV0097,ORD00689,1.0,"It's okay, does the job.",2026-01-12
+REV0098,ORD00072,1.0,"Delivery took way longer than promised, not happy.",2026-04-15
+REV0099,ORD00292,4.0,"Great quality, arrived as expected, would buy again!",2026-01-14
+REV0100,ORD00650,3.0,"Average product, nothing special.",2026-03-03
+REV0101,ORD00409,1.0,"Still waiting past the promised date, frustrating experience.",2025-10-19
+REV0102,ORD00310,4.0,"It's okay, does the job.",2025-11-22
+REV0103,ORD00623,1.0,"It's okay, does the job.",2026-06-19
+REV0104,ORD00682,4.0,"Nice product, good value for the price.",2026-04-12
+REV0105,ORD00990,2.0,"Ordered this over a week late, wouldn't order again.",2025-11-03
+REV0106,ORD00179,5.0,"Nice product, good value for the price.",2026-02-03
+REV0107,ORD00279,5.0,"Nice product, good value for the price.",2026-06-21
+REV0108,ORD00326,2.0,"Fine for the price, packaging could be better.",2026-01-20
+REV0109,ORD00848,5.0,"Great quality, arrived as expected, would buy again!",2025-08-01
+REV0110,ORD00146,2.0,"Average product, nothing special.",2026-06-16
+REV0111,ORD00927,3.0,"Fine for the price, packaging could be better.",2026-06-11
+REV0112,ORD00145,5.0,Fast shipping and item was well packaged.,2026-06-28
+REV0113,ORD00080,4.0,"Exceeded expectations, will be ordering more.",2025-09-19
+REV0114,ORD00190,5.0,Fast shipping and item was well packaged.,2025-06-07
+REV0115,ORD00357,4.0,"Great quality, arrived as expected, would buy again!",2026-05-12
+REV0116,ORD00538,3.0,"Wrong item sent, had to return it.",2026-06-01
+REV0117,ORD00366,2.0,"Item never arrived on time, very disappointing.",2026-07-04
+REV0118,ORD00876,3.0,"Average product, nothing special.",2026-06-30
+REV0119,ORD00829,4.0,"Nice product, good value for the price.",2026-06-27
+REV0120,ORD00442,2.0,"Item never arrived on time, very disappointing.",2026-05-07
+REV0121,ORD00610,4.0,"Nice product, good value for the price.",2026-06-16
+REV0122,ORD00076,3.0,"Average product, nothing special.",2026-04-20
+REV0123,ORD00341,4.0,"Exceeded expectations, will be ordering more.",2026-05-29
+REV0124,ORD00186,4.0,"Nice product, good value for the price.",2026-03-02
+REV0125,ORD00678,4.0,"Fine for the price, packaging could be better.",2026-07-01
+REV0126,ORD00141,,Fast shipping and item was well packaged.,2025-09-15
+REV0127,ORD00677,4.0,"Exceeded expectations, will be ordering more.",2025-12-03
+REV0128,ORD00086,5.0,"Nice product, good value for the price.",2025-09-08
+REV0129,ORD00150,3.0,"Average product, nothing special.",2026-01-02
+REV0130,ORD00752,3.0,"Fine for the price, packaging could be better.",2026-04-27
+REV0131,ORD00553,5.0,Fast shipping and item was well packaged.,2026-04-04
+REV0132,ORD00704,4.0,"Great quality, arrived as expected, would buy again!",2025-11-29
+REV0133,ORD00973,1.0,"Item never arrived on time, very disappointing.",2026-05-09
+REV0134,ORD00909,5.0,"Really happy with this purchase, exactly as described.",2026-06-23
+REV0135,ORD00900,,Not worth the money.,2026-04-10
+REV0136,ORD00362,4.0,Fast shipping and item was well packaged.,2026-06-26
+REV0137,ORD00517,3.0,"It's okay, does the job.",2026-01-12
+REV0138,ORD00893,4.0,Fast shipping and item was well packaged.,2025-11-09
+REV0139,ORD00477,,"Great quality, arrived as expected, would buy again!",2026-06-17
+REV0140,ORD00992,2.0,"Average product, nothing special.",2026-05-27
+REV0141,ORD00113,5.0,"Really happy with this purchase, exactly as described.",2026-06-20
+REV0142,ORD00926,2.0,"Ordered this over a week late, wouldn't order again.",2025-11-18
+REV0143,ORD00400,5.0,"Nice product, good value for the price.",2026-06-01
+REV0144,ORD00364,,"Average product, nothing special.",2026-01-27
+REV0145,ORD00903,4.0,"Great quality, arrived as expected, would buy again!",2026-04-20
+REV0146,ORD00132,1.0,"Item never arrived on time, very disappointing.",2026-01-12
+REV0147,ORD00952,5.0,"Great quality, arrived as expected, would buy again!",2026-06-11
+REV0148,ORD00732,5.0,"Really happy with this purchase, exactly as described.",2025-12-24
+REV0149,ORD00262,4.0,Fast shipping and item was well packaged.,2025-11-27
+REV0150,ORD00762,4.0,"Average product, nothing special.",2026-07-04
+REV0151,ORD00165,2.0,"Delivery took way longer than promised, not happy.",2026-03-30
+REV0152,ORD00577,3.0,"It's okay, does the job.",2026-05-09
+REV0153,ORD00554,1.0,"Item never arrived on time, very disappointing.",2025-10-21
+REV0154,ORD00448,5.0,"Exceeded expectations, will be ordering more.",2026-01-23
+REV0155,ORD00965,4.0,Fast shipping and item was well packaged.,2025-11-02
+REV0156,ORD00328,5.0,"Exceeded expectations, will be ordering more.",2026-06-26
+REV0157,ORD00569,5.0,Fast shipping and item was well packaged.,2025-02-17
+REV0158,ORD00756,5.0,"Great quality, arrived as expected, would buy again!",2026-01-17
+REV0159,ORD00976,3.0,"Fine for the price, packaging could be better.",2026-06-17
+REV0160,ORD00219,5.0,"Nice product, good value for the price.",2025-08-08
+REV0161,ORD00192,5.0,Fast shipping and item was well packaged.,2026-03-29
+REV0162,ORD00410,,"Exceeded expectations, will be ordering more.",2026-04-11
+REV0163,ORD00499,2.0,"Delivery took way longer than promised, not happy.",2025-05-24
+REV0164,ORD00896,5.0,"Great quality, arrived as expected, would buy again!",2026-06-28
+REV0165,ORD00685,3.0,"It's okay, does the job.",2026-07-13
+REV0166,ORD00865,1.0,"Wrong item sent, had to return it.",2026-07-02
+REV0167,ORD00751,3.0,"Average product, nothing special.",2026-03-15
+REV0168,ORD00157,5.0,Fast shipping and item was well packaged.,2026-01-31
+REV0169,ORD00832,1.0,Package was late and support was slow to respond.,2026-03-18
+REV0170,ORD00241,4.0,"Exceeded expectations, will be ordering more.",2026-04-05
+REV0171,ORD00878,4.0,Fast shipping and item was well packaged.,2025-11-28
+REV0172,ORD00349,5.0,"Really happy with this purchase, exactly as described.",2025-08-23
+REV0173,ORD00093,3.0,"Wrong item sent, had to return it.",2025-11-15
+REV0174,ORD00880,5.0,"Really happy with this purchase, exactly as described.",2026-01-09
+REV0175,ORD00223,3.0,"Average product, nothing special.",2025-06-26
+REV0176,ORD00761,4.0,"Really happy with this purchase, exactly as described.",2026-05-27
+REV0177,ORD00750,5.0,"Really happy with this purchase, exactly as described.",2025-10-29
+REV0178,ORD00773,4.0,"Exceeded expectations, will be ordering more.",2026-05-16
+REV0179,ORD00692,,"Nice product, good value for the price.",2026-02-13
+REV0180,ORD00064,5.0,Fast shipping and item was well packaged.,2026-05-15
+REV0181,ORD00019,4.0,"Great quality, arrived as expected, would buy again!",2026-02-15
+REV0182,ORD00679,5.0,"Nice product, good value for the price.",2026-01-04
+REV0183,ORD00698,5.0,"Great quality, arrived as expected, would buy again!",2026-03-12
+REV0184,ORD00565,4.0,"Exceeded expectations, will be ordering more.",2025-12-22
+REV0185,ORD00747,5.0,"Exceeded expectations, will be ordering more.",2026-02-25
+REV0186,ORD00928,5.0,"Nice product, good value for the price.",2026-05-24
+REV0187,ORD00929,5.0,"Nice product, good value for the price.",2026-04-21
+REV0188,ORD00023,1.0,Not worth the money.,2026-06-28
+REV0189,ORD00850,4.0,"Really happy with this purchase, exactly as described.",2025-08-11
+REV0190,ORD00196,5.0,"Nice product, good value for the price.",2026-03-23
+REV0191,ORD00811,5.0,"Nice product, good value for the price.",2026-01-14
+REV0192,ORD00741,,"Ordered this over a week late, wouldn't order again.",2026-05-03
+REV0193,ORD00666,,"Still waiting past the promised date, frustrating experience.",2025-07-16
+REV0194,ORD00535,4.0,"Nice product, good value for the price.",2025-12-11
+REV0195,ORD00660,1.0,"It's okay, does the job.",2026-06-26
+REV0196,ORD00293,5.0,"Great quality, arrived as expected, would buy again!",2025-12-04
+REV0197,ORD00438,5.0,"Nice product, good value for the price.",2025-08-23
+REV0198,ORD00111,4.0,"Really happy with this purchase, exactly as described.",2026-05-08
+REV0199,ORD00302,5.0,"Exceeded expectations, will be ordering more.",2025-05-14
+REV0200,ORD00300,4.0,Fast shipping and item was well packaged.,2025-08-06
+REV0201,ORD00406,2.0,"Item never arrived on time, very disappointing.",2026-05-24
+REV0202,ORD00728,,"Really happy with this purchase, exactly as described.",2025-10-21
+REV0203,ORD00868,5.0,"Nice product, good value for the price.",2025-11-08
+REV0204,ORD00649,5.0,"Great quality, arrived as expected, would buy again!",2025-06-07
+REV0205,ORD00441,4.0,"Great quality, arrived as expected, would buy again!",2025-10-28
+REV0206,ORD00091,5.0,Fast shipping and item was well packaged.,2025-12-15
+REV0207,ORD00082,1.0,"Average product, nothing special.",2025-10-01
+REV0208,ORD00284,5.0,"Great quality, arrived as expected, would buy again!",2026-03-03
+REV0209,ORD00983,3.0,"It's okay, does the job.",2026-06-19
+REV0210,ORD00298,5.0,"Great quality, arrived as expected, would buy again!",2026-04-22
+REV0211,ORD00031,4.0,"Great quality, arrived as expected, would buy again!",2025-05-17
+REV0212,ORD00011,2.0,"Average product, nothing special.",2026-05-17
+REV0213,ORD00336,4.0,"Really happy with this purchase, exactly as described.",2026-01-16
+REV0214,ORD00189,3.0,"Average product, nothing special.",2026-05-06
+REV0215,ORD00813,4.0,"Really happy with this purchase, exactly as described.",2025-09-30
+REV0216,ORD00882,4.0,"Exceeded expectations, will be ordering more.",2026-06-01
+REV0217,ORD00866,3.0,"It's okay, does the job.",2026-05-12
+REV0218,ORD00655,5.0,"Nice product, good value for the price.",2026-04-23
+REV0219,ORD00910,3.0,"Average product, nothing special.",2025-10-04
+REV0220,ORD00163,3.0,"It's okay, does the job.",2026-03-10
+REV0221,ORD00466,2.0,Package was late and support was slow to respond.,2026-06-07
+REV0222,ORD00322,5.0,"Exceeded expectations, will be ordering more.",2026-03-21
+REV0223,ORD00079,5.0,Fast shipping and item was well packaged.,2026-05-31
+REV0224,ORD00563,5.0,Fast shipping and item was well packaged.,2026-04-10
+REV0225,ORD00002,1.0,"Delivery took way longer than promised, not happy.",2026-03-31
+REV0226,ORD00578,4.0,"Average product, nothing special.",2026-05-21
+REV0227,ORD00182,5.0,"Nice product, good value for the price.",2025-04-10
+REV0228,ORD00734,5.0,"Great quality, arrived as expected, would buy again!",2025-12-02
+REV0229,ORD00939,2.0,"Item never arrived on time, very disappointing.",2026-05-28
+REV0230,ORD00705,3.0,"Fine for the price, packaging could be better.",2026-04-02
+REV0231,ORD00464,2.0,"Still waiting past the promised date, frustrating experience.",2026-06-25
+REV0232,ORD00840,5.0,"Really happy with this purchase, exactly as described.",2025-12-14
+REV0233,ORD00005,1.0,"Item never arrived on time, very disappointing.",2026-06-18
+REV0234,ORD00532,1.0,"Delivery took way longer than promised, not happy.",2026-07-13
+REV0235,ORD00207,5.0,"Really happy with this purchase, exactly as described.",2026-06-25
+REV0236,ORD00120,4.0,"Really happy with this purchase, exactly as described.",2025-09-12
+REV0237,ORD00483,3.0,"Fine for the price, packaging could be better.",2025-11-05
+REV0238,ORD00543,1.0,"Item never arrived on time, very disappointing.",2026-06-29
+REV0239,ORD00214,3.0,"Fine for the price, packaging could be better.",2026-01-09
+REV0240,ORD00907,4.0,"Nice product, good value for the price.",2026-05-07
+REV0241,ORD00181,,"Ordered this over a week late, wouldn't order again.",2026-05-28
+REV0242,ORD00269,4.0,Fast shipping and item was well packaged.,2025-11-12
+REV0243,ORD00391,1.0,Not worth the money.,2026-04-08
+REV0244,ORD00073,1.0,"It's okay, does the job.",2026-03-17
+REV0245,ORD00224,3.0,"It's okay, does the job.",2025-07-28
+REV0246,ORD00211,5.0,"Really happy with this purchase, exactly as described.",2025-03-19
+REV0247,ORD00346,2.0,"Item never arrived on time, very disappointing.",2026-04-23
+REV0248,ORD00923,4.0,"Nice product, good value for the price.",2026-05-13
+REV0249,ORD00123,5.0,Fast shipping and item was well packaged.,2026-07-12
+REV0250,ORD00184,2.0,"Ordered this over a week late, wouldn't order again.",2025-08-10
+REV0251,ORD00781,5.0,Fast shipping and item was well packaged.,2026-03-18
+REV0252,ORD00828,4.0,"Really happy with this purchase, exactly as described.",2026-05-31
+REV0253,ORD00525,5.0,"Exceeded expectations, will be ordering more.",2026-03-14
+REV0254,ORD00014,1.0,"Average product, nothing special.",2026-06-17
+REV0255,ORD00238,5.0,"Exceeded expectations, will be ordering more.",2025-10-01
+REV0256,ORD00260,1.0,"Delivery took way longer than promised, not happy.",2026-03-21
+REV0257,ORD00911,4.0,"Really happy with this purchase, exactly as described.",2026-05-29
+REV0258,ORD00321,5.0,Fast shipping and item was well packaged.,2026-05-15
+REV0259,ORD00496,4.0,"Great quality, arrived as expected, would buy again!",2025-08-20
+REV0260,ORD00885,1.0,"Wrong item sent, had to return it.",2025-10-30
+REV0261,ORD00420,2.0,"Ordered this over a week late, wouldn't order again.",2026-01-28
+REV0262,ORD00599,,"It's okay, does the job.",2026-04-14
+REV0263,ORD00707,4.0,"Nice product, good value for the price.",2026-06-07
+REV0264,ORD00869,5.0,"Nice product, good value for the price.",2025-07-03
+REV0265,ORD00133,4.0,"Exceeded expectations, will be ordering more.",2025-05-29
+REV0266,ORD00092,5.0,"Nice product, good value for the price.",2026-04-06
+REV0267,ORD00821,4.0,"Nice product, good value for the price.",2026-02-21
+REV0268,ORD00130,4.0,Fast shipping and item was well packaged.,2026-04-22
+REV0269,ORD00987,4.0,"Really happy with this purchase, exactly as described.",2026-06-30
+REV0270,ORD00170,5.0,"Exceeded expectations, will be ordering more.",2026-02-06
+REV0271,ORD00115,5.0,Fast shipping and item was well packaged.,2026-07-05
+REV0272,ORD00701,5.0,"Exceeded expectations, will be ordering more.",2026-03-10
+REV0273,ORD00948,5.0,"Nice product, good value for the price.",2025-09-01
+REV0274,ORD00585,2.0,"Not as described, quality was poor.",2025-04-06
+REV0275,ORD00413,4.0,"Really happy with this purchase, exactly as described.",2026-06-03
+REV0276,ORD00718,5.0,"Really happy with this purchase, exactly as described.",2025-10-20
+REV0277,ORD00727,4.0,"Exceeded expectations, will be ordering more.",2025-12-27
+REV0278,ORD00305,4.0,"Great quality, arrived as expected, would buy again!",2026-06-11
+REV0279,ORD00469,4.0,"Great quality, arrived as expected, would buy again!",2026-06-28
+REV0280,ORD00074,1.0,"Not as described, quality was poor.",2026-06-04
+REV0281,ORD00003,5.0,"It's okay, does the job.",2026-06-04
+REV0282,ORD00592,4.0,"Really happy with this purchase, exactly as described.",2026-03-01
+REV0283,ORD00376,5.0,"Nice product, good value for the price.",2025-11-03
+REV0284,ORD00640,2.0,"Still waiting past the promised date, frustrating experience.",2026-02-17
+REV0285,ORD00013,3.0,"It's okay, does the job.",2026-03-05
+REV0286,ORD00335,2.0,"Ordered this over a week late, wouldn't order again.",2026-04-15
+REV0287,ORD00737,4.0,"Great quality, arrived as expected, would buy again!",2026-01-26
+REV0288,ORD00395,2.0,Not worth the money.,2026-02-24
+REV0289,ORD00112,5.0,"Nice product, good value for the price.",2026-06-22
+REV0290,ORD00465,4.0,Fast shipping and item was well packaged.,2026-06-09
+REV0291,ORD00333,5.0,Fast shipping and item was well packaged.,2025-10-08
+REV0292,ORD00188,5.0,"Nice product, good value for the price.",2026-01-06
+REV0293,ORD00325,5.0,"Nice product, good value for the price.",2025-12-12
+REV0294,ORD00949,2.0,Not worth the money.,2026-06-05
+REV0295,ORD00759,5.0,"Exceeded expectations, will be ordering more.",2025-11-20
+REV0296,ORD00884,3.0,"Fine for the price, packaging could be better.",2025-12-30
+REV0297,ORD00044,4.0,Fast shipping and item was well packaged.,2026-04-29
+REV0298,ORD00329,1.0,Package was late and support was slow to respond.,2026-07-11
+REV0299,ORD00602,3.0,"Fine for the price, packaging could be better.",2025-12-10
+REV0300,ORD00404,5.0,"Exceeded expectations, will be ordering more.",2026-06-10
+REV0301,ORD00772,2.0,"Delivery took way longer than promised, not happy.",2026-01-04
+REV0302,ORD00327,4.0,"Really happy with this purchase, exactly as described.",2026-03-15
+REV0303,ORD00921,4.0,"Exceeded expectations, will be ordering more.",2025-03-16
+REV0304,ORD00559,5.0,Fast shipping and item was well packaged.,2025-07-22
+REV0305,ORD00867,4.0,Fast shipping and item was well packaged.,2026-01-30
+REV0306,ORD00557,5.0,"Great quality, arrived as expected, would buy again!",2025-12-13
+REV0307,ORD00352,4.0,"Great quality, arrived as expected, would buy again!",2026-07-09
+REV0308,ORD00456,3.0,"It's okay, does the job.",2026-04-26
+REV0309,ORD00722,,Not worth the money.,2026-03-28
+REV0310,ORD00918,3.0,"Average product, nothing special.",2026-04-04
+REV0311,ORD00057,5.0,"Great quality, arrived as expected, would buy again!",2026-03-30
+REV0312,ORD00787,2.0,"Fine for the price, packaging could be better.",2026-03-17
+REV0313,ORD00227,,"Great quality, arrived as expected, would buy again!",2026-04-24
+REV0314,ORD00739,3.0,"Average product, nothing special.",2026-06-28
+REV0315,ORD00042,5.0,"Nice product, good value for the price.",2026-02-16
+REV0316,ORD00462,,"It's okay, does the job.",2026-06-11
+REV0317,ORD00881,4.0,"Exceeded expectations, will be ordering more.",2026-06-22
+REV0318,ORD00359,3.0,"Fine for the price, packaging could be better.",2026-02-28
+REV0319,ORD00711,4.0,"Fine for the price, packaging could be better.",2025-12-27
+REV0320,ORD00185,5.0,"Nice product, good value for the price.",2026-03-18
+REV0321,ORD00183,1.0,"Still waiting past the promised date, frustrating experience.",2026-04-21
+REV0322,ORD00421,5.0,"Really happy with this purchase, exactly as described.",2026-05-12
+REV0323,ORD00060,3.0,"Average product, nothing special.",2026-05-24
+REV0324,ORD00826,3.0,"Average product, nothing special.",2025-12-31
+REV0325,ORD00786,2.0,"Average product, nothing special.",2026-05-15
+REV0326,ORD00017,2.0,"Ordered this over a week late, wouldn't order again.",2026-04-16
+REV0327,ORD00363,5.0,Fast shipping and item was well packaged.,2026-02-27
+REV0328,ORD00699,1.0,Item arrived damaged.,2025-08-29
+REV0329,ORD00901,4.0,"Really happy with this purchase, exactly as described.",2026-06-25
+REV0330,ORD00844,5.0,"Nice product, good value for the price.",2026-02-14
+REV0331,ORD00574,5.0,Fast shipping and item was well packaged.,2025-11-22
+REV0332,ORD00683,2.0,Package was late and support was slow to respond.,2026-01-22
+REV0333,ORD00491,5.0,"Nice product, good value for the price.",2025-10-11
+REV0334,ORD00800,2.0,Package was late and support was slow to respond.,2026-04-20
+REV0335,ORD00634,1.0,"Still waiting past the promised date, frustrating experience.",2026-03-22
+REV0336,ORD00656,3.0,Item arrived damaged.,2025-11-28
+REV0337,ORD00386,4.0,Fast shipping and item was well packaged.,2025-05-18
+REV0338,ORD00030,5.0,"Exceeded expectations, will be ordering more.",2026-05-09
+REV0339,ORD00956,5.0,"Really happy with this purchase, exactly as described.",2025-07-08
+REV0340,ORD00958,5.0,"Nice product, good value for the price.",2025-10-11
+REV0341,ORD00667,3.0,"It's okay, does the job.",2026-02-18
+REV0342,ORD00889,5.0,"Great quality, arrived as expected, would buy again!",2025-10-03
+REV0343,ORD00396,5.0,"Great quality, arrived as expected, would buy again!",2025-10-30
+REV0344,ORD00457,2.0,Item arrived damaged.,2026-03-07
+REV0345,ORD00213,4.0,"Nice product, good value for the price.",2026-03-03
+REV0346,ORD00033,4.0,"Really happy with this purchase, exactly as described.",2025-12-12
+REV0347,ORD00895,4.0,Fast shipping and item was well packaged.,2026-02-15
+REV0348,ORD00470,5.0,"Nice product, good value for the price.",2026-03-09
+REV0349,ORD00161,4.0,Fast shipping and item was well packaged.,2026-04-01
+REV0350,ORD00612,4.0,Fast shipping and item was well packaged.,2026-03-30
+REV0351,ORD00353,4.0,"Exceeded expectations, will be ordering more.",2026-01-23
+REV0352,ORD00824,3.0,"It's okay, does the job.",2025-09-30
+REV0353,ORD00980,1.0,"Fine for the price, packaging could be better.",2025-12-28
+REV0354,ORD00971,4.0,"Really happy with this purchase, exactly as described.",2026-05-03
+REV0355,ORD00384,2.0,"Delivery took way longer than promised, not happy.",2025-07-09
+REV0356,ORD00004,3.0,"It's okay, does the job.",2026-03-06
+REV0357,ORD00825,4.0,"Nice product, good value for the price.",2026-06-09
+REV0358,ORD00134,5.0,"Great quality, arrived as expected, would buy again!",2026-06-27
+REV0359,ORD00830,4.0,"Exceeded expectations, will be ordering more.",2026-04-13
+REV0360,ORD00361,5.0,Fast shipping and item was well packaged.,2026-05-22
+REV0361,ORD00835,3.0,"Fine for the price, packaging could be better.",2026-03-15
+REV0362,ORD00930,4.0,"Nice product, good value for the price.",2025-10-22
+REV0363,ORD00340,5.0,"Really happy with this purchase, exactly as described.",2026-06-16
+REV0364,ORD00233,4.0,"Nice product, good value for the price.",2025-08-25
+REV0365,ORD00347,2.0,"Still waiting past the promised date, frustrating experience.",2026-01-07
+REV0366,ORD00917,5.0,"Really happy with this purchase, exactly as described.",2026-04-16
+REV0367,ORD00479,5.0,"Exceeded expectations, will be ordering more.",2025-11-26
+REV0368,ORD00117,4.0,Fast shipping and item was well packaged.,2026-06-02
+REV0369,ORD00050,,"Exceeded expectations, will be ordering more.",2026-06-13
+REV0370,ORD00303,4.0,"Great quality, arrived as expected, would buy again!",2026-06-14
+REV0371,ORD00593,1.0,"Item never arrived on time, very disappointing.",2026-02-26
+REV0372,ORD00216,1.0,"Delivery took way longer than promised, not happy.",2026-04-01
+REV0373,ORD00778,1.0,Package was late and support was slow to respond.,2026-01-06
+REV0374,ORD00299,5.0,"Exceeded expectations, will be ordering more.",2025-09-26
+REV0375,ORD00748,2.0,Not worth the money.,2026-05-29
+REV0376,ORD00236,4.0,"Great quality, arrived as expected, would buy again!",2026-07-04
+REV0377,ORD00586,1.0,"Not as described, quality was poor.",2026-02-21
+REV0378,ORD00124,4.0,"Really happy with this purchase, exactly as described.",2026-05-22
+REV0379,ORD00785,3.0,"Average product, nothing special.",2026-04-27
+REV0380,ORD00480,3.0,"Average product, nothing special.",2026-03-02
+REV0381,ORD00422,5.0,Fast shipping and item was well packaged.,2025-08-01
+REV0382,ORD00945,,Fast shipping and item was well packaged.,2025-10-28
+REV0383,ORD00232,2.0,"Delivery took way longer than promised, not happy.",2026-05-19
+REV0384,ORD00280,4.0,"Nice product, good value for the price.",2025-09-27
+REV0385,ORD00178,5.0,"Exceeded expectations, will be ordering more.",2026-03-06
+REV0386,ORD00774,4.0,"Great quality, arrived as expected, would buy again!",2025-12-18
+REV0387,ORD00769,1.0,Package was late and support was slow to respond.,2026-04-27
+REV0388,ORD00684,4.0,"Really happy with this purchase, exactly as described.",2026-03-08
+REV0389,ORD00540,4.0,"Exceeded expectations, will be ordering more.",2026-03-08
+REV0390,ORD00452,4.0,"Really happy with this purchase, exactly as described.",2026-01-31
+REV0391,ORD00519,3.0,"Average product, nothing special.",2026-01-01
+REV0392,ORD00767,5.0,"Nice product, good value for the price.",2025-07-03
+REV0393,ORD00127,4.0,"Exceeded expectations, will be ordering more.",2025-12-09
+REV0394,ORD00551,5.0,"Nice product, good value for the price.",2026-03-15
+REV0395,ORD00187,1.0,Item arrived damaged.,2026-07-07
+REV0396,ORD00168,2.0,"Delivery took way longer than promised, not happy.",2026-07-09
+REV0397,ORD00703,2.0,"Ordered this over a week late, wouldn't order again.",2025-11-08
+REV0398,ORD00505,4.0,"Fine for the price, packaging could be better.",2026-04-26
+REV0399,ORD00121,5.0,Fast shipping and item was well packaged.,2026-02-12
+REV0400,ORD00892,3.0,"It's okay, does the job.",2026-01-02
+REV0401,ORD00964,3.0,"Fine for the price, packaging could be better.",2026-07-02
+REV0402,ORD00765,5.0,"Nice product, good value for the price.",2026-01-27
+REV0403,ORD00493,5.0,Fast shipping and item was well packaged.,2026-05-24
+REV0404,ORD00672,4.0,"Really happy with this purchase, exactly as described.",2026-05-29
+REV0405,ORD00502,2.0,"Not as described, quality was poor.",2026-05-02
+REV0406,ORD00435,3.0,"Fine for the price, packaging could be better.",2026-06-05
+REV0407,ORD00562,4.0,"Average product, nothing special.",2025-07-12
+REV0408,ORD00251,5.0,"Really happy with this purchase, exactly as described.",2026-06-01
+REV0409,ORD00138,4.0,"Exceeded expectations, will be ordering more.",2025-07-02
+REV0410,ORD00160,3.0,"Average product, nothing special.",2026-04-30
+REV0411,ORD00374,5.0,"Really happy with this purchase, exactly as described.",2026-04-20
+REV0412,ORD00143,5.0,Fast shipping and item was well packaged.,2026-03-15
+REV0413,ORD00934,2.0,"Average product, nothing special.",2026-04-24
+REV0414,ORD00454,3.0,"It's okay, does the job.",2026-02-11
+REV0415,ORD00062,5.0,"Great quality, arrived as expected, would buy again!",2026-06-25
+REV0416,ORD00373,5.0,"Great quality, arrived as expected, would buy again!",2026-04-16
+REV0417,ORD00597,4.0,"Exceeded expectations, will be ordering more.",2025-12-29
+REV0418,ORD00172,2.0,"Still waiting past the promised date, frustrating experience.",2026-03-02
+REV0419,ORD00995,4.0,"Exceeded expectations, will be ordering more.",2026-06-01
+REV0420,ORD00606,1.0,"Wrong item sent, had to return it.",2026-06-18
+REV0421,ORD00315,4.0,"Exceeded expectations, will be ordering more.",2026-05-25
+REV0422,ORD00225,3.0,"Average product, nothing special.",2025-09-01
+REV0423,ORD00429,5.0,Fast shipping and item was well packaged.,2025-09-08
+REV0424,ORD00614,5.0,Fast shipping and item was well packaged.,2025-12-14
+REV0425,ORD00312,5.0,"Great quality, arrived as expected, would buy again!",2026-04-19
+REV0426,ORD00416,4.0,"It's okay, does the job.",2026-05-07
+REV0427,ORD00135,5.0,"Really happy with this purchase, exactly as described.",2026-02-22
+REV0428,ORD00332,4.0,"Really happy with this purchase, exactly as described.",2026-02-20
+REV0429,ORD00913,4.0,"Great quality, arrived as expected, would buy again!",2026-04-21
+REV0430,ORD00740,2.0,"Item never arrived on time, very disappointing.",2026-06-11
+REV0431,ORD00859,5.0,Fast shipping and item was well packaged.,2025-10-09
+REV0432,ORD00440,3.0,"It's okay, does the job.",2026-02-28
+REV0433,ORD00697,1.0,"Item never arrived on time, very disappointing.",2026-07-01
+REV0434,ORD00040,5.0,Fast shipping and item was well packaged.,2026-02-14
+REV0435,ORD00261,2.0,Package was late and support was slow to respond.,2026-04-18
+REV0436,ORD00472,5.0,Fast shipping and item was well packaged.,2025-11-29
+REV0437,ORD00424,5.0,"Really happy with this purchase, exactly as described.",2025-07-03
+REV0438,ORD00055,4.0,"Nice product, good value for the price.",2026-02-22
+REV0439,ORD00203,1.0,"Ordered this over a week late, wouldn't order again.",2026-01-29
+REV0440,ORD00140,1.0,"Delivery took way longer than promised, not happy.",2026-03-31
+REV0441,ORD00482,5.0,"Nice product, good value for the price.",2026-06-18
+REV0442,ORD00670,5.0,"Really happy with this purchase, exactly as described.",2025-07-18
+REV0443,ORD00294,5.0,Fast shipping and item was well packaged.,2025-07-14
+REV0444,ORD00037,5.0,"Nice product, good value for the price.",2026-01-22
+REV0445,ORD00873,4.0,"Great quality, arrived as expected, would buy again!",2026-04-17
+REV0446,ORD00745,,"Still waiting past the promised date, frustrating experience.",2026-06-03
+REV0447,ORD00746,3.0,"It's okay, does the job.",2025-12-13
+REV0448,ORD00399,3.0,"It's okay, does the job.",2026-04-30
+REV0449,ORD00068,5.0,Fast shipping and item was well packaged.,2026-06-13
+REV0450,ORD00753,4.0,"Great quality, arrived as expected, would buy again!",2026-04-29
+REV0451,ORD00509,1.0,"Item never arrived on time, very disappointing.",2026-03-14
+REV0452,ORD00937,2.0,"Fine for the price, packaging could be better.",2026-04-25
+REV0453,ORD00054,3.0,"Fine for the price, packaging could be better.",2025-08-16
+REV0454,ORD00398,4.0,Fast shipping and item was well packaged.,2025-12-15
+REV0455,ORD00712,5.0,"Nice product, good value for the price.",2026-03-04
+REV0456,ORD00615,5.0,"Exceeded expectations, will be ordering more.",2025-12-12
+REV0457,ORD00960,4.0,"Nice product, good value for the price.",2026-05-14
+REV0458,ORD00250,4.0,"It's okay, does the job.",2026-04-05
+REV0459,ORD00258,4.0,"Exceeded expectations, will be ordering more.",2026-06-12
+REV0460,ORD00942,4.0,"Nice product, good value for the price.",2025-12-15
+REV0461,ORD00450,5.0,"Exceeded expectations, will be ordering more.",2025-11-22
+REV0462,ORD00591,1.0,"Delivery took way longer than promised, not happy.",2026-01-08
+REV0463,ORD00029,4.0,"Exceeded expectations, will be ordering more.",2026-05-30
+REV0464,ORD00823,5.0,"Really happy with this purchase, exactly as described.",2026-03-26
+REV0465,ORD00277,5.0,"Really happy with this purchase, exactly as described.",2026-02-20
+REV0466,ORD00675,1.0,"It's okay, does the job.",2025-06-12
+REV0467,ORD00862,2.0,"Average product, nothing special.",2026-02-22
+REV0468,ORD00256,,"Nice product, good value for the price.",2026-06-19
+REV0469,ORD00107,5.0,"Really happy with this purchase, exactly as described.",2026-03-12
+REV0470,ORD00289,5.0,"Great quality, arrived as expected, would buy again!",2025-12-23
+REV0471,ORD00415,4.0,"Exceeded expectations, will be ordering more.",2026-06-29
+REV0472,ORD00114,1.0,"Delivery took way longer than promised, not happy.",2025-06-21
+REV0473,ORD00078,5.0,Fast shipping and item was well packaged.,2025-11-17
+REV0474,ORD00166,2.0,"Item never arrived on time, very disappointing.",2026-05-29
+REV0475,ORD00485,2.0,"Average product, nothing special.",2026-06-08
+REV0476,ORD00246,2.0,"Delivery took way longer than promised, not happy.",2026-05-11
+REV0477,ORD00492,5.0,"Nice product, good value for the price.",2026-04-26
+REV0478,ORD00434,2.0,"Ordered this over a week late, wouldn't order again.",2026-01-14
+REV0479,ORD00819,3.0,"It's okay, does the job.",2026-02-20
+REV0480,ORD00116,1.0,"Item never arrived on time, very disappointing.",2026-06-01
+REV0481,ORD00681,5.0,Fast shipping and item was well packaged.,2026-05-14
+REV0482,ORD00863,1.0,"Average product, nothing special.",2025-11-13
+REV0483,ORD00938,4.0,"Nice product, good value for the price.",2025-09-05
+REV0484,ORD00550,1.0,Package was late and support was slow to respond.,2026-03-23
+REV0485,ORD00348,1.0,"Item never arrived on time, very disappointing.",2025-12-22
+REV0486,ORD00274,5.0,"Really happy with this purchase, exactly as described.",2026-03-06
+REV0487,ORD00234,5.0,"Great quality, arrived as expected, would buy again!",2026-04-21
+REV0488,ORD00996,4.0,"Exceeded expectations, will be ordering more.",2026-05-16
+REV0489,ORD00541,5.0,Fast shipping and item was well packaged.,2026-07-02
+REV0490,ORD00961,5.0,"Exceeded expectations, will be ordering more.",2026-07-02
+REV0491,ORD00545,1.0,"Not as described, quality was poor.",2026-05-07
+REV0492,ORD00651,5.0,Fast shipping and item was well packaged.,2026-05-31
+REV0493,ORD00174,3.0,"Fine for the price, packaging could be better.",2026-06-17
+REV0494,ORD00534,1.0,"Item never arrived on time, very disappointing.",2026-06-19
+REV0495,ORD00252,2.0,"It's okay, does the job.",2025-04-04
+REV0496,ORD00899,5.0,"Nice product, good value for the price.",2025-12-02
+REV0497,ORD00804,5.0,"Great quality, arrived as expected, would buy again!",2025-07-25
+REV0498,ORD00159,4.0,"Exceeded expectations, will be ordering more.",2026-04-12
+REV0499,ORD00969,5.0,"Really happy with this purchase, exactly as described.",2026-03-13
+REV0500,ORD00025,2.0,"It's okay, does the job.",2025-08-28
+REV0501,ORD00308,1.0,"Still waiting past the promised date, frustrating experience.",2025-06-03
+REV0502,ORD00631,2.0,"Still waiting past the promised date, frustrating experience.",2025-02-16
+REV0503,ORD00468,3.0,"It's okay, does the job.",2025-12-01
+REV0504,ORD00709,4.0,Fast shipping and item was well packaged.,2026-02-28
+REV0505,ORD00838,5.0,"Exceeded expectations, will be ordering more.",2026-04-09
+REV0506,ORD00155,5.0,"Really happy with this purchase, exactly as described.",2026-02-18
+REV0507,ORD00043,,"Fine for the price, packaging could be better.",2025-04-20
+REV0508,ORD00365,1.0,"Ordered this over a week late, wouldn't order again.",2026-06-21
+REV0509,ORD00096,5.0,"Really happy with this purchase, exactly as described.",2025-10-30
+REV0510,ORD00556,5.0,Fast shipping and item was well packaged.,2026-06-14
+REV0511,ORD00228,2.0,"Average product, nothing special.",2026-06-26
+REV0512,ORD00768,4.0,"Really happy with this purchase, exactly as described.",2026-05-18
+REV0513,ORD00403,5.0,"Nice product, good value for the price.",2026-02-21
+REV0514,ORD00024,1.0,"Delivery took way longer than promised, not happy.",2026-04-16
+REV0515,ORD00306,5.0,"Great quality, arrived as expected, would buy again!",2026-04-22
+REV0516,ORD00180,4.0,"Exceeded expectations, will be ordering more.",2026-02-10
+REV0517,ORD00103,2.0,Package was late and support was slow to respond.,2026-03-14
+REV0518,ORD00026,4.0,"Exceeded expectations, will be ordering more.",2026-02-20
+REV0519,ORD00757,3.0,Item arrived damaged.,2025-09-03
+REV0520,ORD00633,4.0,"Great quality, arrived as expected, would buy again!",2026-06-20
+REV0521,ORD00518,5.0,"Really happy with this purchase, exactly as described.",2026-07-11
+REV0522,ORD00590,5.0,"Nice product, good value for the price.",2026-03-16
+REV0523,ORD00375,1.0,"Delivery took way longer than promised, not happy.",2026-02-21
+REV0524,ORD00827,3.0,"It's okay, does the job.",2026-05-22
+REV0525,ORD00254,5.0,Fast shipping and item was well packaged.,2025-12-31
+REV0526,ORD00299,3.0,"It's okay, does the job.",2025-09-22
+REV0527,ORD00075,4.0,"Great quality, arrived as expected, would buy again!",2025-08-29
+REV0528,ORD00966,5.0,"Nice product, good value for the price.",2026-04-10
+REV0529,ORD00122,2.0,"Average product, nothing special.",2026-06-06
+REV0530,ORD00118,,"Nice product, good value for the price.",2025-10-14
+REV0531,ORD00552,3.0,"Average product, nothing special.",2025-12-26
+REV0532,ORD00006,2.0,"Delivery took way longer than promised, not happy.",2026-05-29
+REV0533,ORD00504,1.0,"Average product, nothing special.",2026-06-20
+REV0534,ORD00653,5.0,"Nice product, good value for the price.",2025-08-22
+REV0535,ORD00587,,Fast shipping and item was well packaged.,2025-07-04
+REV0536,ORD00071,4.0,"Exceeded expectations, will be ordering more.",2025-12-15
+REV0537,ORD00015,4.0,"Really happy with this purchase, exactly as described.",2025-05-15
+REV0538,ORD00997,5.0,Fast shipping and item was well packaged.,2026-06-22
+REV0539,ORD00616,2.0,"Average product, nothing special.",2026-05-15
+REV0540,ORD00390,5.0,Fast shipping and item was well packaged.,2026-06-06
+REV0541,ORD00080,5.0,"Great quality, arrived as expected, would buy again!",2025-09-19
+REV0542,ORD00508,5.0,Fast shipping and item was well packaged.,2026-06-01
+REV0543,ORD00724,5.0,"Exceeded expectations, will be ordering more.",2026-02-20
+REV0544,ORD00056,4.0,Fast shipping and item was well packaged.,2025-05-24
+REV0545,ORD00495,5.0,"Exceeded expectations, will be ordering more.",2026-06-25
+REV0546,ORD00278,4.0,"Nice product, good value for the price.",2026-05-14
+REV0547,ORD00888,4.0,"Exceeded expectations, will be ordering more.",2025-09-11
+REV0548,ORD00544,3.0,"Fine for the price, packaging could be better.",2025-03-11
+REV0549,ORD00571,5.0,"Exceeded expectations, will be ordering more.",2025-11-16
+REV0550,ORD00872,2.0,Package was late and support was slow to respond.,2026-05-27
+REV0551,ORD00533,2.0,Not worth the money.,2026-05-21
+REV0552,ORD00605,4.0,"Really happy with this purchase, exactly as described.",2025-10-22
+REV0553,ORD00173,3.0,"It's okay, does the job.",2025-07-17
+REV0554,ORD00858,5.0,"Really happy with this purchase, exactly as described.",2026-06-26
+REV0555,ORD00350,5.0,"Nice product, good value for the price.",2025-08-17
+REV0556,ORD00979,5.0,Fast shipping and item was well packaged.,2025-10-20
+REV0557,ORD00259,2.0,"It's okay, does the job.",2026-06-30
+REV0558,ORD00394,2.0,"Fine for the price, packaging could be better.",2026-05-25
+REV0559,ORD00630,3.0,"It's okay, does the job.",2026-03-30
+REV0560,ORD00500,4.0,"Great quality, arrived as expected, would buy again!",2026-06-27
+REV0561,ORD00528,3.0,"Fine for the price, packaging could be better.",2025-09-27
+REV0562,ORD00635,2.0,"It's okay, does the job.",2026-02-18
+REV0563,ORD00607,,Fast shipping and item was well packaged.,2026-05-07
+REV0564,ORD00935,4.0,"Nice product, good value for the price.",2026-05-28
+REV0565,ORD00324,3.0,"It's okay, does the job.",2026-07-01

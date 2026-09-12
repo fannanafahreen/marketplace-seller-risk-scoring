@@ -1,0 +1,151 @@
+product_id,seller_id,category,sub_category,price,listing_date,live_shopping_eligible
+PRD0001,SEL0020,Fashion,Menswear,11.29,2025-12-18,True
+PRD0002,SEL0034,Beauty,Haircare,13.22,2025-02-22,True
+PRD0003,SEL0014,Pet Supplies,,16.73,2025-05-14,True
+PRD0004,SEL0040,Electronics,Wearables,9.14,2025-04-14,True
+PRD0005,SEL0022,Sports & Outdoors,Cycling,17.93,2026-01-14,True
+PRD0006,SEL0040,Electronics,,11.53,2026-05-22,No
+PRD0007,SEL0040,Electronics,Smart Home,19.92,2025-06-01,True
+PRD0008,SEL0015,Home & Living,Storage,26.09,2025-08-31,False
+PRD0009,SEL0018,Electronics,Phone Accessories,£25.99,2025-12-07,False
+PRD0010,SEL0005,Electronics,Phone Accessories,11.01,2025-04-21,Yes
+PRD0011,SEL0024,Fashion,Accessories,8.39,2026-04-17,True
+PRD0012,SEL0035,Toys & Games,Educational,42.7,2026-02-13,True
+PRD0013,SEL0016,Pet Supplies,Toys,9.27,2025-12-06,False
+PRD0014,SEL0002,Fashion,Footwear,10.88,2025-09-29,True
+PRD0015,SEL0017,Toys & Games,Outdoor Play,18.83,2025-04-29,True
+PRD0016,SEL0026,Pet Supplies,,22.73,2025-07-21,Yes
+PRD0017,SEL0024,Fashion,Footwear,25.02,2025-05-08,False
+PRD0018,SEL0004,Electronics,Smart Home,4.99,2025-10-30,True
+PRD0019,SEL0024,Fashion,Accessories,14.42,2025-11-05,True
+PRD0020,SEL0028,Fashion,Footwear,34.15,2025-11-26,True
+PRD0021,SEL0018,Electronics,Phone Accessories,43.77,2025-06-23,False
+PRD0022,SEL0016,Pet Supplies,Grooming,13.75,2025-08-29,False
+PRD0023,SEL0027,Sports & Outdoors,Fitness,£9.11,2025-11-29,True
+PRD0024,SEL0007,Sports & Outdoors,Camping,10.05,2025-07-19,False
+PRD0025,SEL0039,Fashion,Accessories,14.91,2025-01-06,False
+PRD0026,SEL0027,Sports & Outdoors,Fitness,14.21,2026-05-16,False
+PRD0027,SEL0017,Toys & Games,Educational,13.69,2025-05-05,True
+PRD0028,SEL0009,Sports & Outdoors,Cycling,12.42,2025-10-09,False
+PRD0029,SEL0013,Home & Living,Storage,11.01,2026-04-22,True
+PRD0030,SEL0037,Pet Supplies,Toys,36.65,2025-10-11,False
+PRD0031,SEL0016,Pet Supplies,Grooming,9.08,2025-10-20,True
+PRD0032,SEL0017,Toys & Games,,£7.67,2026-01-28,False
+PRD0033,SEL0040,Electronics,Audio,35.6,2025-12-04,True
+PRD0034,SEL0018,Electronics,Wearables,34.55,2025-01-21,False
+PRD0035,SEL0023,Fashion,Accessories,29.1,2025-11-02,False
+PRD0036,SEL0024,Fashion,Accessories,20.36,2025-08-14,True
+PRD0037,SEL0008,Home & Living,,9.92,2026-02-19,False
+PRD0038,SEL0023,Fashion,Menswear,4.99,2026-02-08,True
+PRD0039,SEL0012,Home & Living,Kitchen,£51.49,2025-11-11,True
+PRD0040,SEL0038,Fashion,Footwear,9.03,2026-01-24,True
+PRD0041,SEL0015,Home & Living,Storage,£11.76,2025-01-20,No
+PRD0042,SEL0011,Pet Supplies,Toys,£13.49,2025-02-11,False
+PRD0043,SEL0008,Home & Living,Decor,10.95,2025-09-02,True
+PRD0044,SEL0011,Pet Supplies,Grooming,34.11,2025-09-20,False
+PRD0045,SEL0016,Pet Supplies,Grooming,10.15,2025-06-17,False
+PRD0046,SEL0001,Fashion,Womenswear,25.66,2026-01-20,True
+PRD0047,SEL0020,Fashion,Womenswear,63.82,2025-09-06,True
+PRD0048,SEL0022,Sports & Outdoors,Cycling,£17.24,2025-02-12,True
+PRD0049,SEL0039,Fashion,,34.83,2025-01-13,False
+PRD0050,SEL0025,Fashion,Womenswear,53.77,2026-04-16,False
+PRD0051,SEL0006,Beauty,Haircare,5.11,2026-05-11,True
+PRD0052,SEL0024,Fashion,Footwear,23.54,2025-03-30,True
+PRD0053,SEL0029,Beauty,Fragrance,11.57,2025-12-11,True
+PRD0054,SEL0025,Fashion,Menswear,17.03,2025-09-22,True
+PRD0055,SEL0031,Pet Supplies,Grooming,12.05,2025-07-15,True
+PRD0056,SEL0031,Pet Supplies,Toys,12.45,2026-05-03,True
+PRD0057,SEL0029,Beauty,,29.57,2025-09-07,True
+PRD0058,SEL0009,Sports & Outdoors,Camping,20.42,2026-05-16,True
+PRD0059,SEL0019,Home & Living,Storage,18.58,2025-05-04,False
+PRD0060,SEL0023,Fashion,Menswear,7.85,2025-10-11,False
+PRD0061,SEL0013,Home & Living,Bedding,23.82,2025-06-18,True
+PRD0062,SEL0036,Fashion,Womenswear,£17.38,2025-05-09,False
+PRD0063,SEL0038,Fashion,Menswear,24.69,2025-04-16,False
+PRD0064,SEL0031,Pet Supplies,Toys,12.45,2025-02-22,True
+PRD0065,SEL0027,Sports & Outdoors,Fitness,46.23,2025-05-07,True
+PRD0066,SEL0010,Electronics,Phone Accessories,6.95,2025-08-19,True
+PRD0067,SEL0014,Pet Supplies,Grooming,20.33,2025-08-20,False
+PRD0068,SEL0002,Fashion,Accessories,4.99,2026-03-16,True
+PRD0069,SEL0010,Electronics,Audio,15.09,2025-07-03,Yes
+PRD0070,SEL0008,Home & Living,Decor,£19.03,2025-01-03,True
+PRD0071,SEL0011,Pet Supplies,Toys,6.12,2025-10-17,False
+PRD0072,SEL0038,Fashion,Menswear,6.98,2025-07-22,True
+PRD0073,SEL0009,Sports & Outdoors,Cycling,4.99,2025-07-11,True
+PRD0074,SEL0029,Beauty,Haircare,13.17,2025-10-23,True
+PRD0075,SEL0017,Toys & Games,Outdoor Play,17.01,2026-05-28,True
+PRD0076,SEL0014,Pet Supplies,,8.47,2025-11-27,Yes
+PRD0077,SEL0024,Fashion,Menswear,18.33,2025-01-22,False
+PRD0078,SEL0021,Fashion,Footwear,15.0,2025-07-04,True
+PRD0079,SEL0012,Home & Living,Bedding,41.12,2026-02-08,False
+PRD0080,SEL0016,Pet Supplies,Toys,22.55,2025-04-18,False
+PRD0081,SEL0005,Electronics,Wearables,4.99,2025-02-07,True
+PRD0082,SEL0002,Fashion,Footwear,5.67,2025-01-02,False
+PRD0083,SEL0032,Fashion,,15.27,2026-05-26,True
+PRD0084,SEL0014,Pet Supplies,Food,£37.04,2025-10-22,True
+PRD0085,SEL0035,Toys & Games,,10.36,2025-09-03,False
+PRD0086,SEL0021,Fashion,Womenswear,£12.61,2025-06-03,True
+PRD0087,SEL0009,Sports & Outdoors,Fitness,15.82,2026-01-15,False
+PRD0088,SEL0002,Fashion,Accessories,10.96,2025-05-29,True
+PRD0089,SEL0030,Home & Living,Decor,27.48,2026-03-01,True
+PRD0090,SEL0015,Home & Living,Bedding,20.59,2025-11-02,False
+PRD0091,SEL0036,Fashion,Accessories,7.55,2025-12-19,True
+PRD0092,SEL0010,Electronics,Wearables,23.61,2025-06-21,False
+PRD0093,SEL0026,Pet Supplies,Toys,15.36,2025-02-14,True
+PRD0094,SEL0026,Pet Supplies,Toys,6.08,2025-06-05,Yes
+PRD0095,SEL0026,Pet Supplies,Grooming,4.99,2025-04-13,False
+PRD0096,SEL0006,Beauty,,£8.71,2025-06-08,True
+PRD0097,SEL0031,Pet Supplies,Toys,12.67,2025-03-24,False
+PRD0098,SEL0029,Beauty,Fragrance,9.72,2026-05-15,No
+PRD0099,SEL0009,Sports & Outdoors,Fitness,6.36,2025-09-24,False
+PRD0100,SEL0006,Beauty,Fragrance,19.35,2025-04-13,True
+PRD0101,SEL0018,Electronics,,8.04,2025-10-28,True
+PRD0102,SEL0023,Fashion,Menswear,7.26,2025-07-04,Yes
+PRD0103,SEL0006,Beauty,Fragrance,14.93,2025-05-27,True
+PRD0104,SEL0005,Electronics,Wearables,£7.13,2026-04-22,False
+PRD0105,SEL0023,Fashion,,20.29,2025-11-03,True
+PRD0106,SEL0035,Toys & Games,Outdoor Play,5.93,2026-01-29,False
+PRD0107,SEL0004,Electronics,Wearables,12.55,2025-10-30,True
+PRD0108,SEL0012,Home & Living,Storage,8.72,2026-03-06,False
+PRD0109,SEL0012,Home & Living,Storage,25.42,2026-04-21,False
+PRD0110,SEL0028,Fashion,Footwear,£18.31,2025-09-14,False
+PRD0111,SEL0017,Toys & Games,Collectibles,£14.61,2025-04-10,False
+PRD0112,SEL0015,Home & Living,Bedding,£14.86,2026-01-09,No
+PRD0113,SEL0018,Electronics,Smart Home,9.01,2025-07-25,True
+PRD0114,SEL0006,Beauty,Haircare,7.3,2025-06-18,True
+PRD0115,SEL0038,Fashion,Accessories,13.25,2025-12-13,False
+PRD0116,SEL0026,Pet Supplies,Food,9.46,2026-02-11,False
+PRD0117,SEL0027,Sports & Outdoors,,46.83,2025-08-13,True
+PRD0118,SEL0002,Fashion,Footwear,31.59,2026-01-16,True
+PRD0119,SEL0038,Fashion,Womenswear,13.15,2025-12-02,False
+PRD0120,SEL0025,Fashion,Womenswear,12.42,2025-11-06,True
+PRD0121,SEL0019,Home & Living,Kitchen,12.09,2026-05-20,True
+PRD0122,SEL0014,Pet Supplies,Grooming,6.29,2026-03-06,True
+PRD0123,SEL0028,Fashion,Accessories,5.76,2026-02-22,False
+PRD0124,SEL0017,Toys & Games,Collectibles,6.17,2025-08-30,No
+PRD0125,SEL0032,Fashion,Footwear,14.25,2026-01-03,True
+PRD0126,SEL0009,Sports & Outdoors,Fitness,37.96,2025-06-15,False
+PRD0127,SEL0003,Home & Living,,11.82,2025-03-29,False
+PRD0128,SEL0005,Electronics,Phone Accessories,40.92,2025-08-27,True
+PRD0129,SEL0025,Fashion,Womenswear,16.43,2025-05-14,True
+PRD0130,SEL0037,Pet Supplies,Food,£18.54,2025-01-16,True
+PRD0131,SEL0007,Sports & Outdoors,Cycling,£21.44,2025-02-23,True
+PRD0132,SEL0015,Home & Living,Kitchen,30.67,2026-01-06,True
+PRD0133,SEL0007,Sports & Outdoors,Cycling,11.23,2025-11-05,True
+PRD0134,SEL0009,Sports & Outdoors,Fitness,11.48,2025-12-04,False
+PRD0135,SEL0022,Sports & Outdoors,,£32.42,2025-06-01,True
+PRD0136,SEL0022,Sports & Outdoors,Cycling,9.61,2026-01-26,False
+PRD0137,SEL0034,Beauty,Fragrance,25.26,2025-04-28,False
+PRD0138,SEL0040,Electronics,Phone Accessories,36.35,2025-11-07,True
+PRD0139,SEL0032,Fashion,Accessories,7.19,2025-11-17,False
+PRD0140,SEL0021,Fashion,Menswear,4.99,2025-05-22,No
+PRD0141,SEL0036,Fashion,Womenswear,7.6,2025-06-21,True
+PRD0142,SEL0029,Beauty,Haircare,8.97,2026-03-10,False
+PRD0143,SEL0023,Fashion,Footwear,12.14,2025-08-06,True
+PRD0144,SEL0037,Pet Supplies,Food,21.39,2025-04-28,False
+PRD0145,SEL0029,Beauty,Fragrance,4.99,2025-01-27,True
+PRD0146,SEL0001,Fashion,,11.54,2025-11-13,False
+PRD0147,SEL0036,Fashion,Menswear,18.2,2025-11-07,True
+PRD0148,SEL0005,Electronics,,39.56,2026-01-21,True
+PRD0149,SEL0039,Fashion,Footwear,22.58,2025-03-28,False
+PRD0150,SEL0015,Home & Living,Kitchen,14.64,2026-03-11,True
